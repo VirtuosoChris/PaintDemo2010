@@ -1,5 +1,7 @@
 # PaintDemo2010
 
+Repo Status: Not buildable as-is
+
 ![image](https://github.com/user-attachments/assets/2da9242f-a0ec-41ff-84be-0df10a4a649c)
 
 For a UCF Game Design Group Project in 2010.
